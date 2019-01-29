@@ -1,0 +1,14 @@
+/home/danielle/Documents/dotnetProjects/plantpetsAPI/bin/Debug/netcoreapp2.1/plantpetsAPI.deps.json
+/home/danielle/Documents/dotnetProjects/plantpetsAPI/bin/Debug/netcoreapp2.1/plantpetsAPI.runtimeconfig.json
+/home/danielle/Documents/dotnetProjects/plantpetsAPI/bin/Debug/netcoreapp2.1/plantpetsAPI.runtimeconfig.dev.json
+/home/danielle/Documents/dotnetProjects/plantpetsAPI/bin/Debug/netcoreapp2.1/plantpetsAPI.dll
+/home/danielle/Documents/dotnetProjects/plantpetsAPI/bin/Debug/netcoreapp2.1/plantpetsAPI.pdb
+/home/danielle/Documents/dotnetProjects/plantpetsAPI/obj/Debug/netcoreapp2.1/plantpetsAPI.csprojAssemblyReference.cache
+/home/danielle/Documents/dotnetProjects/plantpetsAPI/obj/Debug/netcoreapp2.1/plantpetsAPI.csproj.CoreCompileInputs.cache
+/home/danielle/Documents/dotnetProjects/plantpetsAPI/obj/Debug/netcoreapp2.1/plantpetsAPI.RazorAssemblyInfo.cache
+/home/danielle/Documents/dotnetProjects/plantpetsAPI/obj/Debug/netcoreapp2.1/plantpetsAPI.RazorAssemblyInfo.cs
+/home/danielle/Documents/dotnetProjects/plantpetsAPI/obj/Debug/netcoreapp2.1/plantpetsAPI.AssemblyInfoInputs.cache
+/home/danielle/Documents/dotnetProjects/plantpetsAPI/obj/Debug/netcoreapp2.1/plantpetsAPI.AssemblyInfo.cs
+/home/danielle/Documents/dotnetProjects/plantpetsAPI/obj/Debug/netcoreapp2.1/plantpetsAPI.RazorTargetAssemblyInfo.cache
+/home/danielle/Documents/dotnetProjects/plantpetsAPI/obj/Debug/netcoreapp2.1/plantpetsAPI.dll
+/home/danielle/Documents/dotnetProjects/plantpetsAPI/obj/Debug/netcoreapp2.1/plantpetsAPI.pdb
